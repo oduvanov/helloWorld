@@ -6,4 +6,6 @@
  * Time: 22:47
  */
 
-php_info();
+phpinfo();
+
+?>
